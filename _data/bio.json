@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "name": "Zhenye (Nathan) Na",
+    "label": "Software Engineer",
+    "picture": "https://zhenye-na.github.io/template/images/avatar.png",
+    "email": "",
+    "phone": "",
+    "website": "https://zhenye-na.github.io",
+    "summary": "I am currently a Software Development Engineer at Amazon Web Services (AWS), working on very exciting projects. Happy to refer! Before that, I graduated from ISE @ UIUC, receiving my Master degree and worked as a Data Engineer at HealthCrowd.",
+    "location": {
+      "address": "",
+      "postalCode": "95126",
+      "city": "San Jose",
+      "countryCode": "USA",
+      "region": "CA"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "zhenye-na",
+        "url": "http://github.com/zhenye-na"
+      },
+      {
+        "network": "linkedin",
+        "username": "zhenyena",
+        "url": "https://www.linkedin.com/in/zhenyena/"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "software engineering",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "machine learning",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "data science",
+      "keywords": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "Java",
+        "Typescript",
+        "Python",
+        "Golang"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "AWS (API Gateway, Lambda, Step Functions, CloudWatch ...)",
+        "Docker",
+        "Kubernetes",
+        "Helm",
+        "Tensorflow"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Illinois at Urbana - Champaign",
+      "area": "Master of Science, Industrial Engineering in Advanced Analytics",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "May 2019",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Dalian University of Technology",
+      "area": "Bachelor of Engineering, Harbor, Waterway and Coastal Engineering",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "July 2017",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Amazon Web Services (AWS)",
+      "position": "Software Development Engineer",
+      "website": "https://aws.amazon.com/",
+      "startDate": "July 2021",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "CrowdCirlce Inc. dba HealthCrowd",
+      "position": "Data Engineer",
+      "website": "https://www.healthcrowd.com/",
+      "startDate": "Mar. 2020",
+      "endDate": "Jun. 2021",
+      "summary": "",
+      "highlights": [
+      ]
+    }
+  ],
+  "volunteer": [
+  ],
+  "awards": [
+  ],
+  "references": [
+  ]
+}
