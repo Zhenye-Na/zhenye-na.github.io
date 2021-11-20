@@ -2,16 +2,14 @@
   "basics": {
     "name": "Zhenye (Nathan) Na",
     "label": "Software Engineer",
-    "picture": "https://zhenye-na.github.io/template/images/avatar.png",
-    "email": "",
-    "phone": "",
+    "picture": "https://github.com/Zhenye-Na/zhenye-na.github.io/blob/main/images/avatar.png?raw=true",
     "website": "https://zhenye-na.github.io",
-    "summary": "I am currently a Software Development Engineer at Amazon Web Services (AWS), working on very exciting projects. Happy to refer! Before that, I graduated from ISE @ UIUC, receiving my Master degree and worked as a Data Engineer at HealthCrowd.",
+    "summary": "I am currently a Software Development Engineer at Amazon Web Services (AWS), working on very exciting projects. Happy to refer!",
     "location": {
       "address": "",
-      "postalCode": "95126",
+      "postalCode": "",
       "city": "San Jose",
-      "countryCode": "USA",
+      "countryCode": "",
       "region": "CA"
     },
     "profiles": [
@@ -29,41 +27,57 @@
   },
   "interests": [
     {
-      "name": "software engineering",
+      "name": "Software Development",
       "keywords": [
       ]
     },
     {
-      "name": "machine learning",
+      "name": "Machine Learning",
       "keywords": [
       ]
     },
     {
-      "name": "data science",
+      "name": "Data Science",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
         "Java",
-        "Typescript",
+        "Typescript/Javascript",
         "Python",
-        "Golang"
+        "Golang",
+        "Shell scripting",
+        "HTML",
+        "CSS"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Frameworks",
+      "level":"",
+      "keywords": [
+        "Spring",
+        "TensorFlow",
+        "PyTorch",
+        "Symfony",
+        "Django",
+        "React",
+        "Angular"
+      ]
+    }
+    {
+      "name": "Tools",
       "level": "",
       "keywords": [
-        "AWS (API Gateway, Lambda, Step Functions, CloudWatch ...)",
+        "AWS",
         "Docker",
         "Kubernetes",
         "Helm",
-        "Tensorflow"
+        "Grafana"
       ]
     }
   ],
@@ -71,29 +85,18 @@
     {
       "institution": "University of Illinois at Urbana - Champaign",
       "area": "Master of Science, Industrial Engineering in Advanced Analytics",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "May 2019",
-      "gpa": "",
-      "courses": [
-      ]
+      "endDate": "May 2019"
     },
     {
       "institution": "Dalian University of Technology",
       "area": "Bachelor of Engineering, Harbor, Waterway and Coastal Engineering",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "July 2017",
-      "gpa": "",
-      "courses": [
-      ]
+      "endDate": "July 2017"
     }
   ],
   "work": [
     {
       "company": "Amazon Web Services (AWS)",
       "position": "Software Development Engineer",
-      "website": "https://aws.amazon.com/",
       "startDate": "July 2021",
       "endDate": "Present",
       "summary": "",
@@ -103,18 +106,11 @@
     {
       "company": "CrowdCirlce Inc. dba HealthCrowd",
       "position": "Data Engineer",
-      "website": "https://www.healthcrowd.com/",
       "startDate": "Mar. 2020",
       "endDate": "Jun. 2021",
       "summary": "",
       "highlights": [
       ]
     }
-  ],
-  "volunteer": [
-  ],
-  "awards": [
-  ],
-  "references": [
   ]
 }
